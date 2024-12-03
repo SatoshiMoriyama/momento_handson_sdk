@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@gomomento/sdk": "^1.101.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.3"
+  },
+  "bundleDependencies": [
+    "@gomomento/sdk"
+  ]
+}
